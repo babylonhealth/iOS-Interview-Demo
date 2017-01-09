@@ -1,4 +1,9 @@
-babylon health Demo project
+<p align="center">
+<img src="logo.png">
+</p>
+
+
+babylon health
 ==================================
 
 Thank you for taking the time to do our demo project. 
