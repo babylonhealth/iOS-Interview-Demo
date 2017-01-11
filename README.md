@@ -25,7 +25,7 @@ When a post is tapped, you should go to the detail screen.
 A post detail screen, will have:
 
 * Its author.
-* A description. 
+* Its description (via the `body`). 
 * Number of comments it has.
 
 You can retrieve the remaining information from:
