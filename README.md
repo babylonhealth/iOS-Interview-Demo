@@ -54,5 +54,5 @@ The following requirements should be met:
 * **Be consistent with your code**. We advise using something like [raywenderlich's swift style guide](https://github.com/raywenderlich/swift-style-guide) while doing the demo. It's absolutly fine to use any other style, as long as you are consistent.
 * Clean the file project structure (if you are creating one from scratch) and remove any unused methods (e.g AppDelegate). This shows attention to detail.
 
-####Thanks for your time, we look forward to hearing from you!
+#### Thanks for your time, we look forward to hearing from you!
 - The [babylon health iOS team](http://github.com/Babylonpartners)
