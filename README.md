@@ -15,6 +15,8 @@ We provide 3 options when applying. Please read each one carefully and pick the 
 3. Unit test a particular component.
 4. Informal discussion about your approach.
 
+Independently of what we ask, in the next phase, the goal is for us to understand how each other work and hopefully improve what you submitted! 👯 ❤️
+
 ### 1. babylon demo project
 
 From a high level point of view the demo consists of a list of posts, where each post has its own detail. 
