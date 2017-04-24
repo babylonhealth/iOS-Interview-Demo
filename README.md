@@ -6,16 +6,17 @@
 babylon health
 ==================================
 
-Thank you for taking the time to do our demo project. 
+Thank you for taking the time to apply to babylon health. 😄
 
-We provide 3 options when applying. Please read each one carefully and pick the one you feel most confortable with. The next step in the interview process, will be about the work you submited. We might ask the following:
+We provide 3 options when applying. Please read each one carefully and pick the one you feel most confortable with. The next step in the interview process, will be about the work you submited. 
 
-1. Extend your code with a new feature.
-2. Refactor the code in order to improve it.
-3. Unit test a particular component.
-4. Informal discussion about your approach.
+The goal is for us to understand how we work with each other and hopefully improve what you submitted! 👯 ❤️ This pair programming session typically lasts between 1 to 2 hours and normally includes:
 
-Independently of what we ask, in the next phase, the goal is for us to understand how we work with each other and hopefully improve what you submitted! 👯 ❤️
+* Extending the code with a new feature.
+* Refactor and unit test a particular component.
+* Informal discussion about your approach.
+
+Above all, be yourself! 🌈
 
 ## 1. babylon demo project
 
