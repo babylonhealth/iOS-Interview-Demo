@@ -17,7 +17,7 @@ We provide 3 options when applying. Please read each one carefully and pick the 
 
 Independently of what we ask, in the next phase, the goal is for us to understand how we work with each other and hopefully improve what you submitted! 👯 ❤️
 
-### 1. babylon demo project
+## 1. babylon demo project
 
 From a high level point of view the demo consists of a list of posts, where each post has its own detail. 
 
@@ -51,7 +51,7 @@ The following requirements should be met:
 * The code should be production grade. 
 * It should compile and run.
 
-### 2. Already written project
+## 2. Already written project
 
 We would be happy if you would submit a project you already have (e.g. potentially a demo project for another company). Still  the project has to obey to the following requirements:
 
@@ -64,7 +64,7 @@ We would be happy if you would submit a project you already have (e.g. potential
 
 If you have a project with these requirements then perfect! Please ensure you have a description of what the project does, in order to give us some context. ❤️
 
-### 3. Open Source work
+## 3. Open Source work
 
 We would like to see a **non-trivial** pull request you have done to a public open source project. This should be something you are proud and where you show your technical skills. **It should also be related to iOS development**: it should be aligned with what you will do on a day-to-day basis. 😊✨🌳
 
