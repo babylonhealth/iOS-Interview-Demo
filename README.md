@@ -8,14 +8,14 @@ babylon health
 
 Thank you for taking the time to do our demo project. 
 
-We provide 3 options when applying. Please read each one carefully and pick the one your feel most confortable with. The next step in the interview process, will be about the work you submited. We might ask the following:
+We provide 3 options when applying. Please read each one carefully and pick the one you feel most confortable with. The next step in the interview process, will be about the work you submited. We might ask the following:
 
 1. Extend your code with a new feature.
 2. Refactor the code in order to improve it.
 3. Unit test a particular component.
 4. Informal discussion about your approach.
 
-Independently of what we ask, in the next phase, the goal is for us to understand how each other work and hopefully improve what you submitted! 👯 ❤️
+Independently of what we ask, in the next phase, the goal is for us to understand how we work with each other and hopefully improve what you submitted! 👯 ❤️
 
 ### 1. babylon demo project
 
