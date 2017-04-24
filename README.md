@@ -8,11 +8,18 @@ babylon health
 
 Thank you for taking the time to do our demo project. 
 
-## Demo Project
+We provide 3 options when applying. Please read each one carefully and pick the one your feel most confortable with. The next step in the interview process, will be about the work you submited. We might ask the following:
+
+1. Extend your code with a new feature.
+2. Refactor the code in order to improve it.
+3. Unit test a particular component.
+4. Informal discussion about your approach.
+
+### 1. babylon demo project
 
 From a high level point of view the demo consists of a list of posts, where each post has its own detail. 
 
-### Posts Screen
+#### Posts Screen
 
 A post has a title and it's up to you how to display it. To retrieve the posts, you can use the following:
 
@@ -20,7 +27,7 @@ A post has a title and it's up to you how to display it. To retrieve the posts, 
 
 When a post is tapped, you should go to the detail screen.
 
-### Detail screen
+#### Detail screen
 
 A post detail screen, will have:
 
@@ -33,7 +40,7 @@ You can retrieve the remaining information from:
 * http://jsonplaceholder.typicode.com/users
 * http://jsonplaceholder.typicode.com/comments
 
-### Requirements 
+#### Requirements 
 
 The following requirements should be met:
 
@@ -42,7 +49,24 @@ The following requirements should be met:
 * The code should be production grade. 
 * It should compile and run.
 
-### Tips/Advise
+### 2. Already written project
+
+We would be happy if you would submit a project you already have (e.g. potentially a demo project for another company). Still  the project has to obey to the following requirements:
+
+* Use Swift 3.0.
+* It should have at least two distinct network calls.
+* It should parse the network response and present the information to the user.
+* It should have some sort of persistence mechanism.
+* It should compile and run.
+* **Ideally** it should have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish). 
+
+If you have a project with these requirements then perfect! Please ensure you have a description of what the project does, in order to give us some context. ❤️
+
+### 3. Open Source work
+
+We would like to see a **non-trivial** pull request you have done to a public open source project. This should be something you are proud and where you show your technical skills. **It should also be related to iOS development**: it should be aligned with what you will do on a day-to-day basis. 😊✨🌳
+
+### General Tips/Advise
 
 * We like code that is simple, [but simple is different than easy](https://www.infoq.com/presentations/Simple-Made-Easy).
 * Keep in mind the [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) when doing the project. 
