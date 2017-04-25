@@ -8,7 +8,13 @@ babylon health
 
 Thank you for taking the time to apply to babylon health. 😄
 
-We provide 3 options when applying. Please read each one carefully and pick the one you feel most confortable with. The next step in the interview process, will be about the work you submited. 
+We provide 3 options when applying (*you only need to submit one*):
+
+1. [babylon demo project](#1-babylon-demo-project)
+2. [Already written project](#2-already-written-project)
+3. [Open source work](#3-open-source-work)
+
+Please read each one carefully and pick the one you feel most confortable with. The next step in the interview process, will be about the work you submited. 
 
 The goal is for us to understand how we work with each other and hopefully improve what you submitted! 👯 ❤️ This pair programming session typically lasts between 1 to 2 hours and normally includes:
 
@@ -69,7 +75,9 @@ If you have a project with these requirements then perfect! Please ensure you ha
 
 We would like to see a **non-trivial** pull request you have done to a public open source project. This should be something you are proud and where you show your technical skills. **It should also be related to iOS development**: it should be aligned with what you will do on a day-to-day basis. 😊✨🌳
 
-### General Tips/Advise
+---
+
+## General Tips/Advise
 
 * We like code that is simple, [but simple is different than easy](https://www.infoq.com/presentations/Simple-Made-Easy).
 * Keep in mind the [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) when doing the project. 
