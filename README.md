@@ -8,7 +8,7 @@ babylon health
 
 Thank you for taking the time to apply to babylon health. 😄
 
-We provide 3 options when applying (*you only need to submit one*):
+We provide 3 options when applying (**you only need to submit one**):
 
 1. [babylon demo project](#1-babylon-demo-project)
 2. [Already written project](#2-already-written-project)
