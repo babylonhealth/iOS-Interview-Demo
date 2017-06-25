@@ -8,7 +8,7 @@ babylon health
 
 Thank you for taking the time to apply to babylon health. 😄
 
-To make make the whole process more inclusive, we provide three options for applying. Mind you, you only need to submit one. Choose what suits you best:
+To make the whole process more inclusive, we provide three options for applying. Mind you, you only need to submit one. Choose what suits you best:
 
 1. [Do the babylon demo project](#1-babylon-demo-project)
 2. [Send us a project you've already done](#2-already-written-project)
@@ -20,7 +20,7 @@ If everything goes well the next step of the process will be an on-site intervie
 
 Next is usually a question around iOS architecture (i.e. how to implement an often encountered feature). We are also proud to say [we don't ask any whiteboard algorithmic questions](https://github.com/poteto/hiring-without-whiteboards).
 
-Our main aim is to understand how would it be to work with each other, so it'll be for both us and for you. This pair programming / interview session usually lasts from one to two hours.
+Our main aim is to understand how well we would work with you and you with us, so this is also a chance for you to learn about us. This pair programming / interview session usually lasts from one to two hours.
 
 Above all, be yourself! 🌈
 
