@@ -77,7 +77,7 @@ We would like to see a **non-trivial** pull request you have done to a public op
 
 ---
 
-## General Tips/Advise
+## General Tips/Advice
 
 * We like code that is simple, [but simple is different than easy](https://www.infoq.com/presentations/Simple-Made-Easy).
 * Keep in mind the [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) when doing the project. 
