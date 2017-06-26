@@ -8,19 +8,19 @@ babylon health
 
 Thank you for taking the time to apply to babylon health. 😄
 
-We provide 3 options when applying (**you only need to submit one**):
+To make the whole process more inclusive, we provide three options for applying. Mind you, you only need to submit one. Choose what suits you best:
 
-1. [babylon demo project](#1-babylon-demo-project)
-2. [Already written project](#2-already-written-project)
-3. [Open source work](#3-open-source-work)
+1. [Do the babylon demo project](#1-babylon-demo-project)
+2. [Send us a project you've already done](#2-already-written-project)
+3. [Show us some open source work you did](#3-open-source-work)
 
-Please read each one carefully and pick the one you feel most confortable with. The next step in the interview process, will be about the work you submited. 
+Please read each one carefully and pick the one you feel most confortable with.
 
-The goal is for us to understand how we work with each other and hopefully improve what you submitted! 👯 ❤️ This pair programming session typically lasts between 1 to 2 hours and normally includes:
+If everything goes well the next step of the process will be an on-site interview. It'll start with a discussion around your project. We normally ask to implement a new feature (even if it's pseudo-code), to refactor and unit-test a particular component, and in general we aim to have an informal discussion about your approach.
 
-* Extending the code with a new feature.
-* Refactor and unit test a particular component.
-* Informal discussion about your approach.
+Next is usually a question around iOS architecture (i.e. how to implement an often encountered feature). We are also proud to say [we don't ask any whiteboard algorithmic questions](https://github.com/poteto/hiring-without-whiteboards).
+
+Our main aim is to understand how well we would work with you and you with us, so this is also a chance for you to learn about us. This pair programming / interview session usually lasts from one to two hours.
 
 Above all, be yourself! 🌈
 
@@ -77,7 +77,7 @@ We would like to see a **non-trivial** pull request you have done to a public op
 
 ---
 
-## General Tips/Advise
+## General Tips/Advice
 
 * We like code that is simple, [but simple is different than easy](https://www.infoq.com/presentations/Simple-Made-Easy).
 * Keep in mind the [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) when doing the project. 
