@@ -55,9 +55,7 @@ If we think the demo project is interesting enough, we'll proceed to a face-to-f
 
 It typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
 
-We may also, or instead of, focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well.
-
-This may look like a radical departure from the typical recruitment process but we think that it gives candidates a fair chance to prepare themselves and it also makes assessment uniform across many candidates.
+We may also, or instead of, focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well since we believe that a fully open recruitment process gives all candidates a fair chance to prepare, and makes our assessment uniform across all candidates.
 
 Above all, be yourself! 🌈
 
