@@ -6,7 +6,7 @@
 babylon health
 ==================================
 
-At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person for a position should reflect that belief.
+At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person  should reflect that belief.
 
 That's why we in the iOS team have open-sourced our recruitment process, so candidates know exactly what to expect, all the way to the questions we may ask a candidate during a face-to-face interview, and so that the assessment process is fair and square.
 
