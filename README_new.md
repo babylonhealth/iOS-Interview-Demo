@@ -6,7 +6,7 @@
 babylon health
 ==================================
 
-At babylon, we firmly believe that *transparency* and *flexibility* are core values that should be present in everything we do, and hiring the best person for a position should reflect that belief.
+At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person for a position should reflect that belief.
 
 That's why we in the iOS team have open-sourced our recruitment process, so candidates know exactly what to expect, all the way to the questions we may ask a candidate during a face-to-face interview, and so that the assessment process is fair and square.
 
@@ -14,9 +14,9 @@ We also aim to be as flexible and inclusive as possible, equally accepting appli
 
 ### Our expectations
 
-babylon aims to hire only the most qualified people available at any given time. That doesn't mean that a candidate must have several academic degrees or have years and years of experience. We value *potential* equally as much as *knowledge* and *experience*. Above all, we value the ability to *engage* and *think* on one's own. As effective as they may be, we don't want robots.
+babylon aims to hire only the most qualified people available at any given time. That doesn't mean that a candidate must have several academic degrees or have years and years of experience. We value **potential** equally as much as **knowledge** and **experience**. Above all, we value the ability to **engage** and **think** on one's own. As effective as they may be, we don't want robots.
 
-We also want to hire people who are *reasonable*, *professional*, and *fun* to work with. After all, they are people we will spend a great deal of time interacting with on a daily basis.
+We also want to hire people who are **reasonable**, **professional**, and **fun** to work with. After all, they are people we will spend a great deal of time interacting with on a daily basis.
 
 These are the main areas we in the iOS team will focus our assessment of candidates on:
 
@@ -43,13 +43,13 @@ Our recruitment process is different for candidates who are interested in workin
     - on-site: Initial call -> Demo -> 3-hour face-to-face technical interview
     - remote: Initial call -> Demo -> one or more Skype interviews -> 1 working day with us (at our expense)
 
-As indicated above, we expect candidates to submit an "interview demo project" but, in order to be flexible, we provide 3 different ways in which a candidate can submit a demo of their work. *You only need to do _one_ of these*.
+As indicated above, we expect candidates to submit an "interview demo project" but, in order to be flexible, we provide 3 different ways in which a candidate can submit a demo of their work. **You only need to do _one_ of these**.
 
 1. [Do the babylon demo project](#1-babylon-demo-project)
 2. [Send us a project you've already done](#2-already-written-project)
 3. [Show us some open source work you did](#3-open-source-work)
 
-Keep in mind that the demo project should be an example of one's *best* work. We want to be wowed by the candidate's techincal skills and creativity.
+Keep in mind that the demo project should be an example of one's **best** work. We want to be wowed by the candidate's techincal skills and creativity.
 
 If we think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
 
