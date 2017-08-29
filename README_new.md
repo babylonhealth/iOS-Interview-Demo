@@ -6,9 +6,9 @@
 babylon health
 ==================================
 
-At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person  should reflect that belief.
+At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person should reflect that belief.
 
-That's why we in the iOS team have open-sourced our recruitment process, so candidates know exactly what to expect, all the way to the questions we may ask  during a face-to-face interview, and so that the assessment process is fair and square.
+That's why we in the iOS team have open-sourced our recruitment process, so candidates know exactly what to expect, all the way to the questions we may ask during a face-to-face interview, and so that the assessment process is fair and square.
 
 We also aim to be as flexible and inclusive as possible, equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely, or who have a limited amount of time to write a demo project, or who have a lot of open-source contributions.
 
@@ -21,12 +21,12 @@ We also want to hire people who are **reasonable**, **professional**, and **fun*
 These are the main areas we in the iOS team will focus our assessment of candidates on:
 
 - Technical expertise
-    - Languages (Swift, Objective-C) and platforms (iOS, watchOS, tvOS, macOS)
-    - Architectural design patterns (MVC, MVVM, Viper, etc)
-    - Knowledge of iOS APIs
-    - Knowledge of the development cycle
-    - Knowledge of reactive programming
-    - Interview demo project
+ - Languages (Swift, Objective-C) and platforms (iOS, watchOS, tvOS, macOS)
+ - Architectural design patterns (MVC, MVVM, Viper, etc)
+ - Knowledge of iOS APIs
+ - Knowledge of the development cycle
+ - Knowledge of reactive programming
+ - Interview demo project
 - Interest in sharing one's knowledge
 - Interest in learning new knowledge
 - Interest in keeping oneself up to date
@@ -40,8 +40,8 @@ These are the main areas we in the iOS team will focus our assessment of candida
 ### The iOS recruitment process
 
 Our recruitment process is different for candidates who are interested in working remotely compared to the process for candidates who are interested in working on-site at our office in London:
-    - on-site: Initial call -> Demo -> 3-hour face-to-face technical interview
-    - remote: Initial call -> Demo -> one or more Skype interviews -> 1 working day with us (at our expense)
+ - on-site: Initial call -> Demo -> 3-hour face-to-face technical interview
+ - remote: Initial call -> Demo -> one or more Skype interviews -> 1 working day with us (at our expense)
 
 As indicated above, we expect candidates to submit an "interview demo project" but, in order to be flexible, we provide 3 different ways in which a candidate can submit a demo of their work. **You only need to do _one_ of these**.
 
@@ -99,7 +99,7 @@ The following requirements should be met:
 
 ## 2. Already written project
 
-We would be happy if you would submit a project you already have (e.g. potentially a demo project for another company). Still  the project has to obey to the following requirements:
+We would be happy if you would submit a project you already have (e.g. potentially a demo project for another company). Still the project has to obey to the following requirements:
 
 * Use Swift 3.0.
 * It should have at least two distinct network calls.
