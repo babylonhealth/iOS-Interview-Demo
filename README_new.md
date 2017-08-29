@@ -8,7 +8,7 @@ babylon health
 
 At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person  should reflect that belief.
 
-That's why we in the iOS team have open-sourced our recruitment process, so candidates know exactly what to expect, all the way to the questions we may ask a candidate during a face-to-face interview, and so that the assessment process is fair and square.
+That's why we in the iOS team have open-sourced our recruitment process, so candidates know exactly what to expect, all the way to the questions we may ask  during a face-to-face interview, and so that the assessment process is fair and square.
 
 We also aim to be as flexible and inclusive as possible, equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely, or who have a limited amount of time to write a demo project, or who have a lot of open-source contributions.
 
