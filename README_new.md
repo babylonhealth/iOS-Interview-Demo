@@ -40,7 +40,7 @@ As such, these are the main areas the iOS team will focus our assessment of cand
 ### The iOS recruitment process
 
 Our recruitment process is different between candidates who are interested in working remotely and candidates who are interested in working on-site at our office in London, in **two** ways:
-- remote candidates are *required* to be proficient in **reactive programming** (`Reactive Swift`/`Reactive Cocoa` or `rxSwift`) at an above-average level
+- remote candidates are *required* to be proficient in **reactive programming** (`Reactive Swift`/`Reactive Cocoa` or `RxSwift`) at an above-average level
 - remote candidates go through a longer technical interview process:
     * on-site: initial call -> demo -> 3-hour face-to-face technical interview
     * remote: initial call -> demo -> one or more Skype interviews -> 1 working day with us (at our expense)
