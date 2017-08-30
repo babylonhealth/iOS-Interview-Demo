@@ -55,7 +55,7 @@ That face-to-face step typically starts with a discussion around the candidate's
 
 We may also focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well since we believe that a fully open recruitment process gives all candidates a fairer chance to prepare themselves, and makes our assessment uniform across all candidates.
 
-Above all, be yourself and thank you for taking the time to apply to babylon health! 😄
+Above all, be yourself and thank you for taking the time to apply to babylon health! 🌈
 
 #### We look forward to hearing from you!
 - The [babylon health iOS team](http://github.com/Babylonpartners)
