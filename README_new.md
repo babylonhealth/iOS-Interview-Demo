@@ -50,7 +50,7 @@ As indicated above, we expect all candidates to submit an ["interview demo proje
 2. A project you've already done
 3. An open source project you've done or contributed to
 
-A demo project should be an example of one's **best** work. We don't just want to see a technically good project; we want to be *wowed* by a candidate's techincal skills and creativity. If we then think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
+A demo project should be an example of one's **best** work. We don't just want to see a technically good project; we want to be *wowed* by a candidate's technical skills and creativity. If we then think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
 
 That face-to-face step typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's just using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
 
