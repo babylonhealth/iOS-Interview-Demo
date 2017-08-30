@@ -3,7 +3,7 @@
 </p>
 
 
-babylon health
+babylon iOS recruitment process
 ==================================
 
 At babylon, we firmly believe that **transparency** is a core value that should be present in everything we do, and hiring the best person should reflect that belief. That's why we in the iOS team have open-sourced our recruitment process, for a fairer assessment process in which candidates know exactly what to expect, all the way to the [questions we may ask during a face-to-face interview](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/master/questions.md).
