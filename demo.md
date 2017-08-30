@@ -28,6 +28,8 @@ Before proceeding to the section of your choice, please consider the following t
 
 ### 1. The babylon demo project
 
+**IMPORTANT**: If you're a candidate interesting in working remotely, your demo project **must** use a reactive programming library.
+
 From a high level point of view the demo consists of a list of posts, where each post has its own detail.
 
 #### Posts Screen
