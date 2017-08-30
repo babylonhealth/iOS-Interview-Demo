@@ -16,7 +16,6 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What technical books and blogs have you read or are reading at the moment?
 - What conferences have you been to or plan on attending, if any?
 - Questions related to the candidate's open source contributions, if any.
-- How would you explain reactive programming to a junior developer who knows nothing about it?
 - What questions would you ask during an interview?
 
 ## ARCHITECTURE
@@ -35,6 +34,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
 - Are you familiar with `Reactive Programming`?
 - What's the basic design pattern behind `Reactive Programming`?
+- How would you explain reactive programming to a junior developer who knows nothing about it?
 - What's good and what's bad about this piece of code?
 ```SWIFT
 (void)viewDidDisappear:(BOOL)animated {
