@@ -6,7 +6,7 @@
 babylon health
 ==================================
 
-At babylon, we firmly believe that **transparency** is a core value that should be present in everything we do, and hiring the best person should reflect that belief. That's why we in the iOS team have open-sourced our recruitment process, for a fairer assessment process in which candidates know exactly what to expect, all the way to the [questions we may ask during a face-to-face interview](TODO).
+At babylon, we firmly believe that **transparency** is a core value that should be present in everything we do, and hiring the best person should reflect that belief. That's why we in the iOS team have open-sourced our recruitment process, for a fairer assessment process in which candidates know exactly what to expect, all the way to the [questions we may ask during a face-to-face interview](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/open_sourced_recruitment/questions.md).
 
 We also aim to be as flexible as possible by equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely, or who have a limited amount of time to write a demo project, or who have open-source contributions.
 
