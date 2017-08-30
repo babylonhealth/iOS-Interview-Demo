@@ -8,9 +8,9 @@ babylon iOS interview demo project
 
 As described in the iOS recruitment process [main page](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/open_sourced_recruitment/README.md), we expect all candidates to submit a demo project, in one of the three formats below. **Only one of these is required**.
 
-1. [The babylon demo project](#1-The-babylon-demo-project)
-2. [A project you've already done](#2-Already-written-project)
-3. [An open source project you've done or contributed to](#3-Open-Source-work)
+1. [The babylon demo project](#1-the-babylon-demo-project)
+2. [A project you've already done](#2-already-written-project)
+3. [An open source project you've done or contributed to](#3-open-source-work)
 
 Before proceeding to the section of your choice, please consider the following tips.
 
@@ -77,5 +77,5 @@ If you have a project with these requirements, then perfect! Please ensure that 
 
 We would like to see a **non-trivial** pull request you have done to a public open source project. This should be something you are proud of and where you show your technical skills. **It should also be related to iOS development** and aligned with what you will do on a day-to-day basis. 😊✨🌳
 
-#### Thanks for your time, we look forward to hearing from you!
+#### Thanks for your time! We look forward to hearing from you!
 - The [babylon health iOS team](http://github.com/Babylonpartners)
