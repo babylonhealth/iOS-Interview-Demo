@@ -6,17 +6,15 @@
 babylon health
 ==================================
 
-At babylon, we firmly believe that **transparency** and **flexibility** are core values that should be present in everything we do, and hiring the best person should reflect that belief.
+At babylon, we firmly believe that **transparency** is a core value that should be present in everything we do, and hiring the best person should reflect that belief. That's why we in the iOS team have open-sourced our recruitment process, for a fairer assessment process in which candidates know exactly what to expect, all the way to the [questions we may ask during a face-to-face interview](TODO).
 
-That's why we in the iOS team have open-sourced our recruitment process, for a fairer assessment process and so that candidates know exactly what to expect, all the way to the [questions we may ask during a face-to-face interview](TODO).
-
-We also aim to be as flexible and inclusive as possible, equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely, or who have a limited amount of time to write a demo project, or who have open-source contributions.
+We also aim to be as flexible as possible by equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely, or who have a limited amount of time to write a demo project, or who have open-source contributions.
 
 ### Our expectations
 
 babylon aims to hire only the most qualified people available at any given time. That doesn't mean that a candidate must have several academic degrees or have years and years of experience. We value **potential** equally as much as **knowledge** and **experience**. Above all, we value one's ability to **think independently** and to **engage**. As effective as they may be, we don't want robots.
 
-We also want to hire people who are **reasonable**, **professional**, and **fun** to work with. After all, they are people we will spend a great deal of time interacting with on a daily basis.
+Additionally, we want to hire people who are **reasonable**, **professional**, and **fun** to work with. After all, they are people we will spend a great deal of time interacting with on a daily basis.
 
 As such, these are the main areas the iOS team will focus our assessment of candidates on:
 
@@ -39,29 +37,25 @@ As such, these are the main areas the iOS team will focus our assessment of cand
 
 ### The iOS recruitment process
 
-Our recruitment process is different between candidates who are interested in working remotely and candidates who are interested in working on-site at our office in London, in **two** ways:
-- remote candidates are *required* to be proficient in **reactive programming** (`Reactive Swift`/`Reactive Cocoa` or `RxSwift`) at an above-average level
-- remote candidates go through a longer technical interview process:
-    * on-site: initial call -> demo -> 3-hour face-to-face technical interview
-    * remote: initial call -> demo -> one or more Skype interviews -> 1 working day with us (at our expense)
+Our recruitment process is different for candidates who are interested in working remotely and those who are interested in working on-site at our office in London, in **two** ways:
+- remote candidates are *required* to be proficient in **reactive programming** (`ReactiveSwift`/`ReactiveCocoa` or `RxSwift`) at an above-average level
+- technical interview sessions differ in number and duration:
+    * **on-site**: initial call -> demo -> 3-hour face-to-face technical interview
+    * **remote**: initial call -> demo -> one or more Skype interviews -> 1 working day with us (at our expense)
 
-As indicated above, we expect all candidates to submit an "interview demo project" but, in order to be flexible, we provide 3 different ways in which a candidate can submit a demo of their work. **Only one of these is required**.
+As indicated above, we expect all candidates to submit an "interview demo project" but, in order to be accommodating of different schedules, we provide 3 different ways in which a candidate can submit a demo of their work. **Only one of these is required**.
 
 1. [Do the babylon demo project](TODO)
 2. [Send us a project you've already done](TODO)
 3. [Show us some open source work you did](TODO)
 
-A demo project should be an example of one's **best** work. We don't just want to see a technically good project; we want to be *wowed* by a candidate's techincal skills and creativity.
+A demo project should be an example of one's **best** work. We don't just want to see a technically good project; we want to be *wowed* by a candidate's techincal skills and creativity. If we then think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
 
-If we think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
+That face-to-face step typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's just using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
 
-It typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's just using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
+We may also focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well since we believe that a fully open recruitment process gives all candidates a fairer chance to prepare themselves, and makes our assessment uniform across all candidates.
 
-We may also, or instead of, focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well since we believe that a fully open recruitment process gives all candidates a fairer chance to prepare, and makes our assessment uniform across all candidates.
-
-Above all, be yourself! 🌈
-
-Thank you for taking the time to apply to babylon health. 😄
+Above all, be yourself and thank you for taking the time to apply to babylon health! 😄
 
 ## 1. babylon demo project
 
