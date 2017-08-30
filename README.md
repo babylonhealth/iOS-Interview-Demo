@@ -6,88 +6,59 @@
 babylon health
 ==================================
 
-Thank you for taking the time to apply to babylon health. 😄
+At babylon, we firmly believe that **transparency** is a core value that should be present in everything we do, and hiring the best person should reflect that belief. That's why we in the iOS team have open-sourced our recruitment process, for a fairer assessment process in which candidates know exactly what to expect, all the way to the [questions we may ask during a face-to-face interview](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/open_sourced_recruitment/questions.md).
 
-To make the whole process more inclusive, we provide three options for applying. Mind you, you only need to submit one. Choose what suits you best:
+We also aim to be as flexible as possible by equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely, or who have a limited amount of time to write a demo project, or who have open-source contributions.
 
-1. [Do the babylon demo project](#1-babylon-demo-project)
-2. [Send us a project you've already done](#2-already-written-project)
-3. [Show us some open source work you did](#3-open-source-work)
+### Our expectations
 
-Please read each one carefully and pick the one you feel most confortable with.
+babylon aims to hire only the most qualified people available at any given time. That doesn't mean that a candidate must have several academic degrees or have years and years of experience. We value **potential** equally as much as **knowledge** and **experience**. Above all, we value one's ability to **think independently** and to **engage**. As effective as they may be, we don't want robots.
 
-If everything goes well the next step of the process will be an on-site interview. It'll start with a discussion around your project. We normally ask to implement a new feature (even if it's pseudo-code), to refactor and unit-test a particular component, and in general we aim to have an informal discussion about your approach.
+Additionally, we want to hire people who are **reasonable**, **professional**, and **fun** to work with. After all, they are people we will spend a great deal of time interacting with on a daily basis.
 
-Next is usually a question around iOS architecture (i.e. how to implement an often encountered feature). We are also proud to say [we don't ask any whiteboard algorithmic questions](https://github.com/poteto/hiring-without-whiteboards).
+As such, these are the main areas the iOS team will focus our assessment of candidates on:
 
-Our main aim is to understand how well we would work with you and you with us, so this is also a chance for you to learn about us. This pair programming / interview session usually lasts from one to two hours.
+- Technical expertise
+ - Languages (Swift, Objective-C) and platforms (iOS, watchOS, tvOS, macOS)
+ - Architectural design patterns (MVC, MVVM, Viper, etc)
+ - Knowledge of iOS APIs
+ - Knowledge of the development cycle
+ - Knowledge of reactive programming
+ - Interview demo project
+- Interest in sharing one's knowledge
+- Interest in learning new knowledge
+- Interest in keeping oneself up to date
+- Ability to think and work independently
+- Ability to work in a large team
+- Professional and personal maturity
+- Overall attitude
+- Likelihood of fitting in well with the company's culture
+- Is the candidate someone we would like to work with on a daily basis?
 
-Above all, be yourself! 🌈
+### The iOS recruitment process
 
-## 1. babylon demo project
+Our recruitment process is different for candidates who are interested in working remotely and those who are interested in working on-site at our office in London, in **three** ways:
+- remote candidates are **required** to be proficient in **reactive programming** (`ReactiveSwift`/`ReactiveCocoa` or `RxSwift`) at an above-average level
+- remote candidates are **required** to use **reactive programming** in their interview demo projects
+- technical interview sessions differ in number and duration:
+    * **on-site**: initial call -> demo -> 3-hour face-to-face technical interview
+    * **remote**: initial call -> demo -> one or more Skype interviews -> 1 working day with us (at our expense)
 
-From a high level point of view the demo consists of a list of posts, where each post has its own detail. 
+As indicated above, we expect all candidates to submit an ["interview demo project"](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/open_sourced_recruitment/demo.md) but, in order to be accommodating of different schedules, we provide three different ways in which a candidate can submit a demo of their work. **Only one of these is required**.
 
-#### Posts Screen
+1. The babylon demo project
+2. A project you've already done
+3. An open source project you've done or contributed to
 
-A post has a title and it's up to you how to display it. To retrieve the posts, you can use the following:
+A demo project should be an example of one's **best** work. We don't just want to see a technically good project; we want to be *wowed* by a candidate's technical skills and creativity. If we then think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
 
-* http://jsonplaceholder.typicode.com/posts
+That face-to-face step, which normally lasts 90 minutes per session (there may be more than one), typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's just using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
 
-When a post is tapped, you should go to the detail screen.
+We may also focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well since we believe that a fully open recruitment process gives all candidates a fairer chance to prepare themselves, and makes our assessment uniform across all candidates.
 
-#### Detail screen
+Above all, be yourself and thank you for taking the time to apply to babylon health! 🌈
 
-A post detail screen, will have:
+Oh, and if you happen to know someone who might be interested in applying for a position with us, please point them to our [careers page](https://www.babylonhealth.com/careers).
 
-* Its author.
-* Its description (via the `body`). 
-* Number of comments it has.
-
-You can retrieve the remaining information from:
-
-* http://jsonplaceholder.typicode.com/users
-* http://jsonplaceholder.typicode.com/comments
-
-#### Requirements 
-
-The following requirements should be met:
-
-* Use Swift 3.0.
-* The information (posts and post details) should be available offline. It's assumed that if it's the first time you are accessing the app, and you are offline, you shouldn't see anything.
-* The code should be production grade. 
-* It should compile and run.
-
-## 2. Already written project
-
-We would be happy if you would submit a project you already have (e.g. potentially a demo project for another company). Still  the project has to obey to the following requirements:
-
-* Use Swift 3.0.
-* It should have at least two distinct network calls.
-* It should parse the network response and present the information to the user.
-* It should have some sort of persistence mechanism.
-* It should compile and run.
-* **Ideally** it should have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish). 
-
-If you have a project with these requirements then perfect! Please ensure you have a description of what the project does, in order to give us some context. ❤️
-
-## 3. Open Source work
-
-We would like to see a **non-trivial** pull request you have done to a public open source project. This should be something you are proud and where you show your technical skills. **It should also be related to iOS development**: it should be aligned with what you will do on a day-to-day basis. 😊✨🌳
-
----
-
-## General Tips/Advice
-
-* We like code that is simple, [but simple is different than easy](https://www.infoq.com/presentations/Simple-Made-Easy).
-* Keep in mind the [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) when doing the project. 
-* We did leave out of the requirements if you should try to download everything (posts + each post detail). This is up to you to decide and justify why you did so.
-* Testing is very important for us. Even if you don't write a single test (e.g. because of time constraints), your app should be easy to test (we love [Dependency injection](https://en.wikipedia.org/wiki/Dependency_inversion_principle)). 
-* Error scenarios should be taken into consideration as well and how easy is to add them, even if you don't explicitly show them (e.g. using an `UIAlertController`).
-* Although UI and UX are important, in this demo, we are more concerned on how you architect your application and your thought process. It should take into consideration features that might be added in the future. 
-* You can use any 3rd party library you wish (Alamofire, ReactiveCocoa, PromiseKit, Realm, etc). In case you do, be prepared to justify why you used it. You can use CocoaPods, Carthage or Git Submodules for this (please don't drag and drop stuff around).
-* **Be consistent with your code**. We advise using something like [raywenderlich's swift style guide](https://github.com/raywenderlich/swift-style-guide) while doing the demo. It's absolutly fine to use any other style, as long as you are consistent.
-* Clean the file project structure (if you are creating one from scratch) and remove any unused methods (e.g AppDelegate). This shows attention to detail.
-
-#### Thanks for your time, we look forward to hearing from you!
+#### We look forward to hearing from you!
 - The [babylon health iOS team](http://github.com/Babylonpartners)
