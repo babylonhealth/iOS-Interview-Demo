@@ -3,7 +3,7 @@
 </p>
 
 
-babylon health
+babylon iOS interview questions
 ==================================
 
 As described in the iOS recruitment process [main page](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/open_sourced_recruitment/README.md), the face-to-face technical interviews involve us asking candidates a number of technical questions which we have decided to open-source.
@@ -122,3 +122,6 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Which 3rd party frameworks do you know about or use? Why should you use them?
 - Have you heard of or used `Cocoapods`, `Carthage`, and the `Swift Package Manager`?
 - Which version control tools do you use? How much experience do you have with `git`? Can you explain what a `rebase` operation is?
+
+#### We look forward to hearing from you!
+- The [babylon health iOS team](http://github.com/Babylonpartners)
