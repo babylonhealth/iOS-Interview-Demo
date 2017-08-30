@@ -12,6 +12,8 @@ As described in the iOS recruitment process [main page](https://github.com/Babyl
 2. [A project you've already done](#2-already-written-project)
 3. [An open source project you've done or contributed to](#3-open-source-work)
 
+**IMPORTANT**: Please note that if you're a candidate interesting in working remotely, your demo project **must** use a reactive programming library.
+
 Before proceeding to the section of your choice, please consider the following tips.
 
 ### General Advice and Tips
@@ -27,8 +29,6 @@ Before proceeding to the section of your choice, please consider the following t
 * Clean the file project structure (if you are creating one from scratch) and remove any unused methods (e.g., from `AppDelegate`). This shows attention to detail.
 
 ### 1. The babylon demo project
-
-**IMPORTANT**: If you're a candidate interesting in working remotely, your demo project **must** use a reactive programming library.
 
 From a high level point of view the demo consists of a list of posts, where each post has its own detail.
 
