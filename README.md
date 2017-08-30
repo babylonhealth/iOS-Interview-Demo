@@ -52,7 +52,7 @@ As indicated above, we expect all candidates to submit an ["interview demo proje
 
 A demo project should be an example of one's **best** work. We don't just want to see a technically good project; we want to be *wowed* by a candidate's technical skills and creativity. If we then think the demo project is interesting enough, we'll proceed to a face-to-face step, either on Skype (for remote candidates) or in person (for on-site candidates).
 
-That face-to-face step typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's just using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
+That face-to-face step, which normally lasts 90 minutes per session (there may be more than one), typically starts with a discussion around the candidate's project. We normally ask the candidate to implement a new feature (even if it's just using pseudo-code), or to refactor and unit-test a particular component, and in general we aim to have an informal discussion about the candidate's approach.
 
 We may also focus on more technical aspects and ask a number of highly technical questions. As indicated earlier, we have open-sourced these questions as well since we believe that a fully open recruitment process gives all candidates a fairer chance to prepare themselves, and makes our assessment uniform across all candidates.
 
