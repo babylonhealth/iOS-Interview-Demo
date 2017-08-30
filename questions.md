@@ -10,7 +10,7 @@ As described in the iOS recruitment process [main page](https://github.com/Babyl
 
 Please keep in mind that this document is in a continuous state of flux, with new questions being added, and old ones tweaked or removed.
 
-## GENERAL, CV-related
+### GENERAL, CV-related
 
 - Questions related to the information on the candidate's CV
 - What technical books and blogs have you read or are reading at the moment?
@@ -18,7 +18,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Questions related to the candidate's open source contributions, if any.
 - What questions would you ask during an interview?
 
-## ARCHITECTURE
+### ARCHITECTURE
 
 - What is your opinion on `MVC` in iOS dev, and alternatives such as `MVVM` and `VIPER`?
 - What role does the view controller play?
@@ -48,7 +48,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
 - Do you have any experience developing for the Apple Watch or tvOS? If so, what's your opinion on the differences and similarities of the various development environments in the Apple development ecosystem?
 
-## SWIFT:
+### SWIFT:
 
 - Can you tell us some of the pros and cons of developing in Swift today?
 - What's your opinion on adopting Swift in both legacy projects and green-field projects?
@@ -85,7 +85,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Are you familiar with functional-programming methods such as `map`, `filter`, and `reduce`? Can you explain their similarities and differences?
 - `Swift Standard Library`: What are `Generator`s, `Sequence`s and `Collection`s?
 
-## XCODE AND TOOLS
+### XCODE AND TOOLS
 
 - What are your thoughts on using Storyboards, NIBs/XIBs, and doing all UI in code?
 - What is your view and experience in using `Autolayout` and `Adaptive Sizing`?
@@ -95,7 +95,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What analytics frameworks are you familiar with or have used?
 - Have you used `TestFlight`? `Fabric`?
 
-## COCOA AND FRAMEWORKS
+### COCOA AND FRAMEWORKS
 
 - What is a `thread`? In which cases would you create your own threads?
 - What is a `runloop`? What is a `runloop mode`?

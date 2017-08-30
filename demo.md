@@ -14,9 +14,9 @@ As described in the iOS recruitment process [main page](https://github.com/Babyl
 
 Before proceeding to the section of your choice, please consider the following tips.
 
-## General Advice and Tips
+### General Advice and Tips
 
-* We like code that is simple, [but simple is different than easy](https://www.infoq.com/presentations/Simple-Made-Easy).
+* We like code that is simple, but [simple is different from easy](https://www.infoq.com/presentations/Simple-Made-Easy).
 * Keep in mind the [SOLID principles](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) when doing the project.
 * We left out of the requirements whether or not you should try to download everything (posts + each post detail). This is up to you to decide and to justify.
 * Testing is very important for us. Even if you don't write a single test (for instance, because of time constraints), your app should be easy to test (we love [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)).
@@ -26,7 +26,7 @@ Before proceeding to the section of your choice, please consider the following t
 * **Be consistent with your code**. We advise using something like [raywenderlich's swift style guide](https://github.com/raywenderlich/swift-style-guide) while doing the demo. It's absolutly fine to use any other style, as long as you are consistent.
 * Clean the file project structure (if you are creating one from scratch) and remove any unused methods (e.g., from `AppDelegate`). This shows attention to detail.
 
-## 1. The babylon demo project
+### 1. The babylon demo project
 
 From a high level point of view the demo consists of a list of posts, where each post has its own detail.
 
@@ -60,7 +60,7 @@ The following requirements should be met:
 * The code should be production grade.
 * It should compile and run.
 
-## 2. Already written project
+### 2. Already written project
 
 We would be happy if you would submit a project you already have (for instance, a demo project for another company). Still the project has to obey the following requirements:
 
@@ -73,7 +73,7 @@ We would be happy if you would submit a project you already have (for instance, 
 
 If you have a project with these requirements, then perfect! Please ensure that you also have a description of what the project does, in order to give us some context.
 
-## 3. Open Source work
+### 3. Open Source work
 
 We would like to see a **non-trivial** pull request you have done to a public open source project. This should be something you are proud of and where you show your technical skills. **It should also be related to iOS development** and aligned with what you will do on a day-to-day basis. 😊✨🌳
 
