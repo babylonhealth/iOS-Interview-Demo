@@ -6,7 +6,7 @@
 babylon iOS interview questions
 ==================================
 
-As described in the iOS recruitment process [main page](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/open_sourced_recruitment/README.md), the face-to-face technical interviews involve us asking candidates a number of technical questions which we have decided to open-source.
+As described in the iOS recruitment process [main page](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/master/README.md), the face-to-face technical interviews involve us asking candidates a number of technical questions which we have decided to open-source.
 
 Please keep in mind that this document is in a continuous state of flux, with new questions being added, and old ones tweaked or removed.
 
