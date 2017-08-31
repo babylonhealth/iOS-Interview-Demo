@@ -53,7 +53,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Can you tell us some of the pros and cons of developing in Swift today?
 - What's your opinion on adopting Swift in both legacy projects and green-field projects?
 - Can you give us a quick overview of the benefits of Swift over Objective-C? And on how they differ?
-- The elevator-pitch question: I'm the CTO of a company thinking of switching from Obj-C to Switch. You have 30 seconds to convince me one way or the other.
+- The elevator-pitch question: I'm the CTO of a company thinking of switching from Obj-C to Swift. You have 30 seconds to convince me one way or the other.
 - Say that there is a function for which we can define a reasonable default, but we need to define specialised versions for a couple of edge cases. How can we do this in Swift?
 - Have you played with Swift Playgrounds? What are its key features and benefits?
 - Are you familiar with the latest changes in the Swift language itself? If so, can you elaborate on some of them?
