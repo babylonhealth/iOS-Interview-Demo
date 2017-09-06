@@ -34,7 +34,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
 - What's good and what's bad about this piece of code?
 ```SWIFT
-    (void)viewDidDisappear:(BOOL)animated {
+(void)viewDidDisappear:(BOOL)animated {
     [self retain];
     [sharedDialog release];
     sharedDialog = nil;
