@@ -32,21 +32,28 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Is immutability a good thing? Why or why not?
 - Can you briefly describe 3 design patterns used in iOS development, other than `MVC` and `Singleton`, and what situations they're best suitable for?
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
-- Are you familiar with `Reactive Programming`?
-- What's the basic design pattern behind `Reactive Programming`?
-- How would you explain reactive programming to a junior developer who knows nothing about it?
 - What's good and what's bad about this piece of code?
 ```SWIFT
 (void)viewDidDisappear:(BOOL)animated {
-    [self retain];
-    [sharedDialog release];
-    sharedDialog = nil;
-    [self performSelector:@selector(presentNextDialog) withObject:nil afterDelay:0];
-    [self release];
+[self retain];
+[sharedDialog release];
+sharedDialog = nil;
+[self performSelector:@selector(presentNextDialog) withObject:nil afterDelay:0];
+[self release];
 }
 ```
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
 - Do you have any experience developing for the Apple Watch or tvOS? If so, what's your opinion on the differences and similarities of the various development environments in the Apple development ecosystem?
+
+### FUNCTIONAL REACTIVE PROGRAMMING
+- Are you familiar with `Reactive Programming`?
+- What's the basic design pattern behind `Reactive Programming`?
+- How would you explain reactive programming to a junior developer who knows nothing about it?
+- What is functional programming? Explain it to a junior.
+- Showcase examples of FP usage with clear benefits to a junior.
+- Can a FP-oriented codebase be difficult to understand? If yes/no, why?
+- Is Swift a FP-oriented language?
+- What is the pipe operator? Is it different from `map`? How do you propagate errors with it? Would a flatPipe operator make sense?
 
 ### SWIFT:
 
