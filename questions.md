@@ -49,11 +49,13 @@ sharedDialog = nil;
 - Are you familiar with `Reactive Programming`?
 - What's the basic design pattern behind `Reactive Programming`?
 - How would you explain reactive programming to a junior developer who knows nothing about it?
+- Why not using Future/Promises/Async-await instead of ReactiveSwift/Rx?
 - What is functional programming? Explain it to a junior.
 - Showcase examples of FP usage with clear benefits to a junior.
 - Can a FP-oriented codebase be difficult to understand? If yes/no, why?
 - Is Swift a FP-oriented language?
 - What is the pipe operator? Is it different from `map`? How do you propagate errors with it? Would a flatPipe operator make sense?
+- What is a monad? Have you ever used one? (Related: why do you think FP has so many academic sounding terms?)
 
 ### SWIFT:
 
