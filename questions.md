@@ -82,6 +82,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What is the `@objc` keyword used for?
 - Do you know what `@autoclosure` and `@escaping` attributes are and when to use them?
 - Do you know what `type-erasure` is in the context of Swift generics?
+- Why is it that, in swift, you can't have an array of, say, `Equatable`, ie, what's the reason for the compiler error "Protocol 'XXX' can only be used as a generic constraint because it has Self or associated type requirements"?
 - Are you familiar with functional-programming methods such as `map`, `filter`, and `reduce`? Can you explain their similarities and differences?
 - `Swift Standard Library`: What are `Generator`s, `Sequence`s and `Collection`s?
 
