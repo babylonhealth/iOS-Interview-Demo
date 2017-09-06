@@ -34,12 +34,12 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
 - What's good and what's bad about this piece of code?
 ```SWIFT
-(void)viewDidDisappear:(BOOL)animated {
-[self retain];
-[sharedDialog release];
-sharedDialog = nil;
-[self performSelector:@selector(presentNextDialog) withObject:nil afterDelay:0];
-[self release];
+    (void)viewDidDisappear:(BOOL)animated {
+    [self retain];
+    [sharedDialog release];
+    sharedDialog = nil;
+    [self performSelector:@selector(presentNextDialog) withObject:nil afterDelay:0];
+    [self release];
 }
 ```
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
@@ -49,12 +49,12 @@ sharedDialog = nil;
 - Are you familiar with `Reactive Programming`?
 - What's the basic design pattern behind `Reactive Programming`?
 - How would you explain reactive programming to a junior developer who knows nothing about it?
-- Why not using Future/Promises/Async-await instead of ReactiveSwift/Rx?
+- Why not using Future/Promises/Async-await instead of ReactiveSwift/RxSwift?
 - What is functional programming? Explain it to a junior.
 - Showcase examples of FP usage with clear benefits to a junior.
-- Can a FP-oriented codebase be difficult to understand? If yes/no, why?
+- Can a FP-oriented codebase be difficult to understand? Why?
 - Is Swift a FP-oriented language?
-- What is the pipe operator? Is it different from `map`? How do you propagate errors with it? Would a flatPipe operator make sense?
+- What is the `pipe` (`|>`) operator? Is it different from `map`? How do you propagate errors with it? Would a `flatPipe` operator make sense?
 - What is a monad? Have you ever used one? (Related: why do you think FP has so many academic sounding terms?)
 
 ### SWIFT:
