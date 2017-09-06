@@ -71,7 +71,7 @@ We would be happy if you would submit a project you already have (for instance, 
 * It should parse the network response and present the information to the user.
 * It should have some sort of persistence mechanism.
 * It should compile and run.
-* **Ideally** it should have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish).
+* It should have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish).
 
 If you have a project with these requirements, then perfect! Please ensure that you also have a description of what the project does, in order to give us some context.
 
