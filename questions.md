@@ -32,9 +32,6 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Is immutability a good thing? Why or why not?
 - Can you briefly describe 3 design patterns used in iOS development, other than `MVC` and `Singleton`, and what situations they're best suitable for?
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
-- Are you familiar with `Reactive Programming`?
-- What's the basic design pattern behind `Reactive Programming`?
-- How would you explain reactive programming to a junior developer who knows nothing about it?
 - What's good and what's bad about this piece of code?
 ```SWIFT
 (void)viewDidDisappear:(BOOL)animated {
@@ -47,6 +44,18 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 ```
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
 - Do you have any experience developing for the Apple Watch or tvOS? If so, what's your opinion on the differences and similarities of the various development environments in the Apple development ecosystem?
+
+### FUNCTIONAL REACTIVE PROGRAMMING
+- Are you familiar with `Reactive Programming`?
+- What's the basic design pattern behind `Reactive Programming`?
+- How would you explain reactive programming to a junior developer who knows nothing about it?
+- Why not using Future/Promises/Async-await instead of ReactiveSwift/RxSwift?
+- What is functional programming? Explain it to a junior.
+- Showcase examples of FP usage with clear benefits to a junior.
+- Can a FP-oriented codebase be difficult to understand? Why?
+- Is Swift a FP-oriented language?
+- What is the `pipe` (`|>`) operator? Is it different from `map`? How do you propagate errors with it? Would a `flatPipe` operator make sense?
+- What is a monad? Have you ever used one? (Related: why do you think FP has so many academic sounding terms?)
 
 ### SWIFT:
 
