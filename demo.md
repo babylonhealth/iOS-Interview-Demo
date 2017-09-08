@@ -12,7 +12,7 @@ As described in the iOS recruitment process [main page](https://github.com/Babyl
 2. [A project you've already done](#2-already-written-project).
 3. [An open source project you've done or contributed to](#3-open-source-work).
 
-**IMPORTANT**: Please note that if you're a candidate interesting in working remotely, your demo project **must** use a reactive programming library.
+**IMPORTANT**: Please note that if you're a candidate interested in working remotely, your demo project **must** use a reactive programming library.
 
 Before proceeding to the section of your choice, please consider the following tips.
 
