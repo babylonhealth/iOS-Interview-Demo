@@ -24,9 +24,10 @@ Before proceeding to the section of your choice, please consider the following t
 * Testing is very important for us. Even if you don't write a single test (for instance, because of time constraints), your app should be easy to test (we love [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)).
 * Error scenarios should be taken into consideration and it should be easy to add them, even if you don't explicitly handle them (e.g. using an `UIAlertController`).
 * Although UI and UX are important, we are more concerned in this demo with your thought process and with how you architect your application. Your demo should take into consideration features that might be added in the future.
-* You can use any 3rd party libraries you wish (`Alamofire`, `ReactiveCocoa`, `PromiseKit`, `Realm`, etc). In case you do, be prepared to justify why you chose them. You can use `CocoaPods`, `Carthage` or `Git Submodules` for this (please don't drag and drop stuff around).
+* You can use any 3rd party libraries you wish (`Alamofire`, `ReactiveCocoa`, `PromiseKit`, `Realm`, etc) but be prepared to justify why you did so. Feel free to use package managers to handle them.
 * **Be consistent in your code**. We advise using something like [raywenderlich's swift style guide](https://github.com/raywenderlich/swift-style-guide) while doing the demo. It's absolutly fine to use any other style, as long as you are consistent.
-* Clean the file project structure (if you are creating one from scratch) and remove any unused methods (e.g., from `AppDelegate`). This shows attention to detail.
+* Clean the file project structure and remove any unused methods (e.g., from `AppDelegate`). This shows attention to detail.
+* Be opinionated regarding any architecture you use and take your time to make it a reflection of your thought process.
 
 ### 1. The babylon demo project
 
@@ -62,16 +63,16 @@ The following requirements should be met:
 * The code should be production grade.
 * It should compile and run.
 
-### 2. Already written project
+### 2. Previously written project
 
-We would be happy if you would submit a project you already have (for instance, a demo project for another company). Still, the project **must** obey the following requirements:
+We would be happy if you would submit a project you already have (for instance, a demo project for another company). Still, the project **must**:
 
 * Use Swift 3.0 or above.
-* It should have at least two distinct network calls.
-* It should parse the network response and present the information to the user.
-* It should have some sort of persistence mechanism.
-* It should compile and run.
-* It should have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish).
+* Have at least two distinct network calls.
+* Parse the network response and present the information to the user.
+* Have some sort of persistence mechanism.
+* Compile and run.
+* Have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish).
 
 If you have a project with these requirements, then perfect! Please ensure that you also have a description of what the project does, in order to give us some context.
 
