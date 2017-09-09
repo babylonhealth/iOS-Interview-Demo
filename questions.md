@@ -54,6 +54,8 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Showcase examples of FP usage with clear benefits to a junior.
 - Can a FP-oriented codebase be difficult to understand? Why?
 - Is Swift a FP-oriented language?
+- What is a higher-order function?
+- Do you know what Curried Functions are?
 - What is the `pipe` (`|>`) operator? Is it different from `map`? How do you propagate errors with it? Would a `flatPipe` operator make sense?
 - What is a monad? Have you ever used one? (Related: why do you think FP has so many academic sounding terms?)
 
@@ -70,9 +72,6 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What's your opinion about `Protocol Oriented Programming` as opposed to the more traditional approach we've had on iOS?
 - What are the differences between a `protocol` with a default implementation, and a `base class`?
 - Is it possible to define an instance method that applies to arrays of integers but *not* to arrays of doubles, or any other type? Can you think of an example when this could be useful? Do you happen to know the syntax?
-- Do you have any experience with functional programming?
-- What is a higher-order function?
-- Do you know what Curried Functions are?
 - What is the Swift embedded runtime?
 - What is the difference between `value semantics` and `reference semantics`?
 - So, say that you have a struct and one or more of its properties is of a reference type. What happens then? Is the struct still a value type?
