@@ -28,6 +28,7 @@ Before proceeding to the section of your choice, please consider the following t
 * **Be consistent in your code**. We advise using something like [raywenderlich's swift style guide](https://github.com/raywenderlich/swift-style-guide) while doing the demo. It's absolutly fine to use any other style, as long as you are consistent.
 * Clean the file project structure and remove any unused methods (e.g., from `AppDelegate`). This shows attention to detail.
 * Be opinionated regarding any architecture you use and take your time to make it a reflection of your thought process.
+* We don't have a submission deadline so take your time to polish your project.
 
 ### 1. The babylon demo project
 
