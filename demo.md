@@ -14,6 +14,8 @@ As described in the iOS recruitment process [main page](https://github.com/Babyl
 
 **IMPORTANT**: Please note that if you're a candidate interested in working remotely, your demo project **must** use a reactive programming library.
 
+**IMPORTANT**: Please submit your interview demo project as a `.zip`ed archive.
+
 Before proceeding to the section of your choice, please consider the following tips.
 
 ### General Advice and Tips
