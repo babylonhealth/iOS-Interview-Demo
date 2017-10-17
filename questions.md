@@ -59,7 +59,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What is the `pipe` (`|>`) operator? Is it different from `map`? How do you propagate errors with it? Would a `flatPipe` operator make sense?
 - What is a monad? Have you ever used one? (Related: why do you think FP has so many academic sounding terms?)
 
-### SWIFT:
+### SWIFT
 
 - Can you tell us some of the pros and cons of developing in Swift today?
 - What's your opinion on adopting Swift in both legacy projects and green-field projects?
@@ -114,7 +114,6 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What is a `dispatch_group`?
 - Have you used `NSOperationQueue` and `NSOperation`?
 - What methods for thread synchronisation do you know on iOS?
-- What is a `deadlock`? How do you avoid it?
 - What are the main differences between `GCD` queues and `NSOperationQueue`s?
 - What are the advantages and disadvantages of `GCD` and `NSOperationQueue`/`NSOperations`?
 - What is `KVO`? Do you know how it works?
@@ -131,6 +130,14 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Which 3rd party frameworks do you know about or use? Why should you use them?
 - Have you heard of or used `Cocoapods`, `Carthage`, and the `Swift Package Manager`?
 - Which version control tools do you use? How much experience do you have with `git`? Can you explain what a `rebase` operation is?
+
+### Computer Science 101 (Questions + Knowledge)
+
+- What is a `deadlock`? How do you avoid it?
+- What is a `race condition`? How do you avoid it?
+- Knowledge about Big O notation
+- Knowledge about data structures: graphs, trees, queues, stacks, linked lists, hashtables and others. 
+- Knowledge about algorithms: sorting, searching and others. 
 
 #### Thanks for your time! We look forward to hearing from you!
 - The [babylon health iOS team](http://github.com/Babylonpartners)
