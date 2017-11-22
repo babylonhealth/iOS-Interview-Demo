@@ -44,6 +44,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 ```
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
 - Do you have any experience developing for the Apple Watch or tvOS? If so, what's your opinion on the differences and similarities of the various development environments in the Apple development ecosystem?
+- How do you handle state in your app(s)?
 
 ### FUNCTIONAL REACTIVE PROGRAMMING
 - Are you familiar with `Reactive Programming`?
@@ -93,6 +94,8 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Why is it that, in swift, you can't have an array of, say, `Equatable`, ie, what's the reason for the compiler error "Protocol 'XXX' can only be used as a generic constraint because it has Self or associated type requirements"?
 - Are you familiar with functional-programming methods such as `map`, `filter`, and `reduce`? Can you explain their similarities and differences?
 - `Swift Standard Library`: What are `Generator`s, `Sequence`s and `Collection`s?
+- What problems do optionals solve?
+- Do you use optionals to handle state? If so, how do you model Errors in an Optional context?
 
 ### XCODE AND TOOLS
 
