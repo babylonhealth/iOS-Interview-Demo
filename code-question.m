@@ -1,4 +1,4 @@
-(void)viewDidDisappear:(BOOL)animated {
+- (void)viewDidDisappear:(BOOL)animated {
     [self retain];
     [sharedDialog release];
     sharedDialog = nil;
