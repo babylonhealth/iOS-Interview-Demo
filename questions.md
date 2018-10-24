@@ -32,16 +32,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Is immutability a good thing? Why or why not?
 - Can you briefly describe 3 design patterns used in iOS development, other than `MVC` and `Singleton`, and what situations they're best suitable for?
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
-- What's good and what's bad about this piece of code?
-```SWIFT
-(void)viewDidDisappear:(BOOL)animated {
-    [self retain];
-    [sharedDialog release];
-    sharedDialog = nil;
-    [self performSelector:@selector(presentNextDialog) withObject:nil afterDelay:0];
-    [self release];
-}
-```
+- What's good and what's bad about [this piece of code](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/master/code-question.m)?
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
 - Do you have any experience developing for the Apple Watch or tvOS? If so, what's your opinion on the differences and similarities of the various development environments in the Apple development ecosystem?
 - How do you handle state in your app(s)?
