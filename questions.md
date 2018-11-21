@@ -49,6 +49,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - What is a higher-order function?
 - Do you know what Curried Functions are?
 - What is the `pipe` (`|>`) operator? Is it different from `map`? How do you propagate errors with it? Would a `flatPipe` operator make sense?
+- You have the chance of shaping an API that returns `T`. You can either choose `Result<T, E: Error>` or `Optional<T>`. What do you prefer, and why? Regardless of the answer, what are the similarities and differences between these two types? What about `Array<T>`?
 - What is a monad? Have you ever used one? (Related: why do you think FP has so many academic sounding terms?)
 
 ### SWIFT
